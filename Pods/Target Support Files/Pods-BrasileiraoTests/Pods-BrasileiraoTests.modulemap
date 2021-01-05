@@ -1,0 +1,6 @@
+framework module Pods_BrasileiraoTests {
+  umbrella header "Pods-BrasileiraoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

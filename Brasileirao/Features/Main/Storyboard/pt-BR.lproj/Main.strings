@@ -1,0 +1,93 @@
+
+/* Class = "UITabBarItem"; title = "Tabela"; ObjectID = "3L5-b6-T22"; */
+"3L5-b6-T22.title" = "Tabela";
+
+/* Class = "UILabel"; text = "Full-Time"; ObjectID = "61P-Lu-PvS"; */
+"61P-Lu-PvS.text" = "Full-Time";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6kY-tl-lX9"; */
+"6kY-tl-lX9.text" = "0";
+
+/* Class = "UILabel"; text = "TeamA"; ObjectID = "ALg-TX-YXA"; */
+"ALg-TX-YXA.text" = "TeamA";
+
+/* Class = "UILabel"; text = "PTS"; ObjectID = "DA6-CA-Vbo"; */
+"DA6-CA-Vbo.text" = "PTS";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "FUU-42-l2Y"; */
+"FUU-42-l2Y.text" = "D";
+
+/* Class = "UILabel"; text = "POS"; ObjectID = "Gru-Ro-0lf"; */
+"Gru-Ro-0lf.text" = "POS";
+
+/* Class = "UITabBarItem"; title = "Partidas"; ObjectID = "Khw-Ar-KGE"; */
+"Khw-Ar-KGE.title" = "Partidas";
+
+/* Class = "UISegmentedControl"; PEx-sz-n2Q.segmentTitles[0] = "Eventos do Jogo"; ObjectID = "PEx-sz-n2Q"; */
+"PEx-sz-n2Q.segmentTitles[0]" = "Eventos do Jogo";
+
+/* Class = "UISegmentedControl"; PEx-sz-n2Q.segmentTitles[1] = "Estatistica"; ObjectID = "PEx-sz-n2Q"; */
+"PEx-sz-n2Q.segmentTitles[1]" = "Estatistica";
+
+/* Class = "UILabel"; text = "TeamA"; ObjectID = "PID-c5-0Hv"; */
+"PID-c5-0Hv.text" = "TeamA";
+
+/* Class = "UILabel"; text = "TeamA"; ObjectID = "PY6-jB-4AP"; */
+"PY6-jB-4AP.text" = "TeamA";
+
+/* Class = "UILabel"; text = "G"; ObjectID = "Qeb-3K-yip"; */
+"Qeb-3K-yip.text" = "G";
+
+/* Class = "UILabel"; text = "G"; ObjectID = "UrN-ew-C9F"; */
+"UrN-ew-C9F.text" = "G";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "W04-5u-KYD"; */
+"W04-5u-KYD.text" = "0";
+
+/* Class = "UILabel"; text = "POS"; ObjectID = "YQx-dF-uJe"; */
+"YQx-dF-uJe.text" = "POS";
+
+/* Class = "UILabel"; text = "Gols time da casa"; ObjectID = "Yhs-aX-JFj"; */
+"Yhs-aX-JFj.text" = "Gols time da casa";
+
+/* Class = "UILabel"; text = "TEAM"; ObjectID = "Yvo-F4-Xpj"; */
+"Yvo-F4-Xpj.text" = "TIMES";
+
+/* Class = "UILabel"; text = "TEAM"; ObjectID = "aMx-BN-ybE"; */
+"aMx-BN-ybE.text" = "TIMES";
+
+/* Class = "UILabel"; text = "PTS"; ObjectID = "dRZ-Gt-F3h"; */
+"dRZ-Gt-F3h.text" = "PTS";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "e4J-1h-NIW"; */
+"e4J-1h-NIW.text" = "0";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "eOh-ed-24d"; */
+"eOh-ed-24d.text" = ":";
+
+/* Class = "UILabel"; text = "W"; ObjectID = "fJQ-iL-Zm2"; */
+"fJQ-iL-Zm2.text" = "V";
+
+/* Class = "UILabel"; text = "D"; ObjectID = "nz0-5g-uJg"; */
+"nz0-5g-uJg.text" = "E";
+
+/* Class = "UILabel"; text = "W"; ObjectID = "sMe-jY-H1h"; */
+"sMe-jY-H1h.text" = "V";
+
+/* Class = "UILabel"; text = "Game Round"; ObjectID = "t0y-NM-baQ"; */
+"t0y-NM-baQ.text" = "Rodada";
+
+/* Class = "UILabel"; text = "D"; ObjectID = "tSB-Gw-C6B"; */
+"tSB-Gw-C6B.text" = "E";
+
+/* Class = "UILabel"; text = "11:00 AM"; ObjectID = "u7L-YL-M6l"; */
+"u7L-YL-M6l.text" = "11:00 AM";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "uK2-pB-Ojp"; */
+"uK2-pB-Ojp.text" = "0";
+
+/* Class = "UILabel"; text = "TeamB"; ObjectID = "uVY-QU-Ad7"; */
+"uVY-QU-Ad7.text" = "TeamB";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "wLm-bS-TdG"; */
+"wLm-bS-TdG.text" = "D";

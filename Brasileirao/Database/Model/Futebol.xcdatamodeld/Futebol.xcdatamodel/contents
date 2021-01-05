@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="19H15" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="FixtureEvents" representedClassName=".FixtureEvents" parentEntity="Fixtures" syncable="YES">
+        <attribute name="assistId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="assistName" optional="YES" attributeType="String"/>
+        <attribute name="detail" optional="YES" attributeType="String"/>
+        <attribute name="elapsed" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="fixtureId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="playerId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="playerName" optional="YES" attributeType="String"/>
+        <attribute name="teamId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="teamName" optional="YES" attributeType="String"/>
+        <attribute name="type" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Fixtures" representedClassName=".Fixtures" syncable="YES">
+        <attribute name="awayTeamId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="gameDate" optional="YES" attributeType="String"/>
+        <attribute name="gameTimestamp" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="homeTeamId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="leagueId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="round" optional="YES" attributeType="String"/>
+        <attribute name="scoreAwayTeam" optional="YES" attributeType="String"/>
+        <attribute name="scoreHomeTeam" optional="YES" attributeType="String"/>
+        <attribute name="status" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="FixtureStats" representedClassName=".FixtureStats" syncable="YES">
+        <attribute name="ballPossessionAway" optional="YES" attributeType="String"/>
+        <attribute name="ballPossessionHome" optional="YES" attributeType="String"/>
+        <attribute name="cornersAway" optional="YES" attributeType="String"/>
+        <attribute name="cornersHome" optional="YES" attributeType="String"/>
+        <attribute name="fixtureId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="foulsAway" optional="YES" attributeType="String"/>
+        <attribute name="foulsHome" optional="YES" attributeType="String"/>
+        <attribute name="offsidesAway" optional="YES" attributeType="String"/>
+        <attribute name="offsidesHome" optional="YES" attributeType="String"/>
+        <attribute name="redCardsAway" optional="YES" attributeType="String"/>
+        <attribute name="redCardsHome" optional="YES" attributeType="String"/>
+        <attribute name="shotsOnGoalAway" optional="YES" attributeType="String"/>
+        <attribute name="shotsOnGoalHome" optional="YES" attributeType="String"/>
+        <attribute name="totalPassesAway" optional="YES" attributeType="String"/>
+        <attribute name="totalPassesHome" optional="YES" attributeType="String"/>
+        <attribute name="totalShotsAway" optional="YES" attributeType="String"/>
+        <attribute name="totalShotsHome" optional="YES" attributeType="String"/>
+        <attribute name="yellowCardsAway" optional="YES" attributeType="String"/>
+        <attribute name="yellowCardsHome" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Standings" representedClassName=".Standings" syncable="YES">
+        <attribute name="draw" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="goalsAgainst" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="goalsDifference" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="goalsFor" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="group" optional="YES" attributeType="String"/>
+        <attribute name="lastGames" optional="YES" attributeType="String"/>
+        <attribute name="lastUpdate" optional="YES" attributeType="String"/>
+        <attribute name="leagueId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="lose" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="matchesPlayed" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="points" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="position" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="rankDescription" optional="YES" attributeType="String"/>
+        <attribute name="teamId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="teamLogo" optional="YES" attributeType="String"/>
+        <attribute name="teamName" optional="YES" attributeType="String"/>
+        <attribute name="win" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="Teams" representedClassName=".Teams" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="logoURL" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="FixtureEvents" positionX="-42.4453125" positionY="218.33203125" width="128" height="193"/>
+        <element name="Fixtures" positionX="219.6171875" positionY="100.57421875" width="128" height="193"/>
+        <element name="FixtureStats" positionX="117" positionY="171" width="128" height="328"/>
+        <element name="Standings" positionX="-63" positionY="-18" width="128" height="298"/>
+        <element name="Teams" positionX="98.6015625" positionY="-14.9765625" width="128" height="88"/>
+    </elements>
+</model>

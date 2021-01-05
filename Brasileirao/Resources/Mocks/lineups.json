@@ -1,0 +1,341 @@
+{
+    
+    "api": {
+        "results": 2,
+        "lineUps": {
+            "Coritiba": {
+                "coach": "Eduardo Barroca",
+                "coach_id": 2421,
+                "formation": "4-2-3-1",
+                "startXI": [
+                    {
+                        "team_id": 147,
+                        "player_id": 9336,
+                        "player": "Wilson",
+                        "number": 84,
+                        "pos": "G"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9342,
+                        "player": "William Matheus",
+                        "number": 6,
+                        "pos": "D"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 41203,
+                        "player": "Patrick",
+                        "number": 91,
+                        "pos": "D"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9414,
+                        "player": "Rodolfo Filemon",
+                        "number": 3,
+                        "pos": "D"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9697,
+                        "player": "Nathan Silva",
+                        "number": 5,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9340,
+                        "player": "Sabino",
+                        "number": 35,
+                        "pos": "D"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9536,
+                        "player": "Ruy",
+                        "number": 89,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 10394,
+                        "player": "Matheus Galdezani",
+                        "number": 20,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 77821,
+                        "player": "Robson Fernandes",
+                        "number": 30,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 33617,
+                        "player": "Gabriel",
+                        "number": 21,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9366,
+                        "player": "Igor Jesus",
+                        "number": 19,
+                        "pos": "F"
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "team_id": 147,
+                        "player_id": 10245,
+                        "player": "Renê Júnior",
+                        "number": 8,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 70311,
+                        "player": "Wellissol",
+                        "number": 29,
+                        "pos": "F"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9368,
+                        "player": "Wanderley",
+                        "number": 13,
+                        "pos": "F"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 10103,
+                        "player": "Sassá",
+                        "number": 99,
+                        "pos": "F"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9354,
+                        "player": "Matheus Bueno",
+                        "number": 57,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 197450,
+                        "player": "Natanael",
+                        "number": 16,
+                        "pos": "D"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9333,
+                        "player": "Arthur",
+                        "number": 33,
+                        "pos": "G"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9361,
+                        "player": "Henrique Vermudt",
+                        "number": 15,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9352,
+                        "player": "Luizinho",
+                        "number": 28,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 197451,
+                        "player": "Kazu",
+                        "number": 88,
+                        "pos": "D"
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9350,
+                        "player": "Rafael Lima",
+                        "number": 43,
+                        "pos": null
+                    },
+                    {
+                        "team_id": 147,
+                        "player_id": 9337,
+                        "player": "Alex Muralha",
+                        "number": 23,
+                        "pos": "G"
+                    }
+                ]
+            },
+            "Internacional": {
+                "coach": "E. Coudet",
+                "coach_id": 862,
+                "formation": "4-2-3-1",
+                "startXI": [
+                    {
+                        "team_id": 119,
+                        "player_id": 10372,
+                        "player": "Marcelo Lomba",
+                        "number": 12,
+                        "pos": "G"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 10377,
+                        "player": "V. Cuesta",
+                        "number": 15,
+                        "pos": "D"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 2470,
+                        "player": "R. Saravia",
+                        "number": 26,
+                        "pos": "D"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 10013,
+                        "player": "Moisés",
+                        "number": 16,
+                        "pos": "D"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 10379,
+                        "player": "Bruno Fuchs",
+                        "number": 3,
+                        "pos": "D"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 10395,
+                        "player": "Rodrigo Lindoso",
+                        "number": 19,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 10388,
+                        "player": "Patrick",
+                        "number": 88,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 197533,
+                        "player": "Bruno Praxedes",
+                        "number": 45,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 10401,
+                        "player": "P. Guerrero",
+                        "number": 9,
+                        "pos": "F"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 10400,
+                        "player": "William Pottker",
+                        "number": 7,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 44492,
+                        "player": "Marcos Guilherme",
+                        "number": 23,
+                        "pos": "M"
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "team_id": 119,
+                        "player_id": 21093,
+                        "player": "Boschilia",
+                        "number": 21,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 80166,
+                        "player": "Thiago Galhardo",
+                        "number": 17,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 125677,
+                        "player": "José Gabriel",
+                        "number": 35,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 10391,
+                        "player": "A. D'Alessandro",
+                        "number": 10,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 10374,
+                        "player": "Danilo Fernandes",
+                        "number": 1,
+                        "pos": "G"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 10378,
+                        "player": "Rodrigo Moledo",
+                        "number": 4,
+                        "pos": "D"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 195090,
+                        "player": "João Peglow",
+                        "number": 31,
+                        "pos": "F"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 10157,
+                        "player": "Rodinei",
+                        "number": 22,
+                        "pos": "D"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 10397,
+                        "player": "M. Sarrafiore",
+                        "number": 29,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 125652,
+                        "player": "Jussa",
+                        "number": 25,
+                        "pos": "M"
+                    },
+                    {
+                        "team_id": 119,
+                        "player_id": 133185,
+                        "player": "Johnny",
+                        "number": 30,
+                        "pos": "M"
+                    }
+                ]
+            }
+        }
+    }
+}

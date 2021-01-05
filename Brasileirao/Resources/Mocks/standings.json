@@ -1,0 +1,749 @@
+{
+    "api": {
+        "results": 1,
+        "standings": [
+            [
+                {
+                    "rank": 1,
+                    "team_id": 119,
+                    "teamName": "Internacional",
+                    "logo": "https://media.api-sports.io/football/teams/119.png",
+                    "group": "Serie A",
+                    "forme": "DLDWW",
+                    "status": "same",
+                    "description": "CONMEBOL Libertadores",
+                    "all": {
+                        "matchsPlayed": 20,
+                        "win": 10,
+                        "draw": 6,
+                        "lose": 4,
+                        "goalsFor": 32,
+                        "goalsAgainst": 18
+                    },
+                    "home": {
+                        "matchsPlayed": 10,
+                        "win": 6,
+                        "draw": 4,
+                        "lose": 0,
+                        "goalsFor": 19,
+                        "goalsAgainst": 8
+                    },
+                    "away": {
+                        "matchsPlayed": 10,
+                        "win": 4,
+                        "draw": 2,
+                        "lose": 4,
+                        "goalsFor": 13,
+                        "goalsAgainst": 10
+                    },
+                    "goalsDiff": 14,
+                    "points": 36,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 2,
+                    "team_id": 1062,
+                    "teamName": "Atletico-MG",
+                    "logo": "https://media.api-sports.io/football/teams/1062.png",
+                    "group": "Serie A",
+                    "forme": "WLDLD",
+                    "status": "up",
+                    "description": "CONMEBOL Libertadores",
+                    "all": {
+                        "matchsPlayed": 19,
+                        "win": 11,
+                        "draw": 2,
+                        "lose": 6,
+                        "goalsFor": 35,
+                        "goalsAgainst": 23
+                    },
+                    "home": {
+                        "matchsPlayed": 10,
+                        "win": 8,
+                        "draw": 2,
+                        "lose": 0,
+                        "goalsFor": 25,
+                        "goalsAgainst": 6
+                    },
+                    "away": {
+                        "matchsPlayed": 9,
+                        "win": 3,
+                        "draw": 0,
+                        "lose": 6,
+                        "goalsFor": 10,
+                        "goalsAgainst": 17
+                    },
+                    "goalsDiff": 12,
+                    "points": 35,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 3,
+                    "team_id": 127,
+                    "teamName": "Flamengo",
+                    "logo": "https://media.api-sports.io/football/teams/127.png",
+                    "group": "Serie A",
+                    "forme": "LLDWD",
+                    "status": "down",
+                    "description": "CONMEBOL Libertadores",
+                    "all": {
+                        "matchsPlayed": 20,
+                        "win": 10,
+                        "draw": 5,
+                        "lose": 5,
+                        "goalsFor": 33,
+                        "goalsAgainst": 29
+                    },
+                    "home": {
+                        "matchsPlayed": 9,
+                        "win": 4,
+                        "draw": 3,
+                        "lose": 2,
+                        "goalsFor": 14,
+                        "goalsAgainst": 11
+                    },
+                    "away": {
+                        "matchsPlayed": 11,
+                        "win": 6,
+                        "draw": 2,
+                        "lose": 3,
+                        "goalsFor": 19,
+                        "goalsAgainst": 18
+                    },
+                    "goalsDiff": 4,
+                    "points": 35,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 4,
+                    "team_id": 126,
+                    "teamName": "Sao Paulo",
+                    "logo": "https://media.api-sports.io/football/teams/126.png",
+                    "group": "Serie A",
+                    "forme": "WWDWW",
+                    "status": "down",
+                    "description": "CONMEBOL Libertadores",
+                    "all": {
+                        "matchsPlayed": 17,
+                        "win": 9,
+                        "draw": 6,
+                        "lose": 2,
+                        "goalsFor": 26,
+                        "goalsAgainst": 15
+                    },
+                    "home": {
+                        "matchsPlayed": 9,
+                        "win": 6,
+                        "draw": 3,
+                        "lose": 0,
+                        "goalsFor": 14,
+                        "goalsAgainst": 5
+                    },
+                    "away": {
+                        "matchsPlayed": 8,
+                        "win": 3,
+                        "draw": 3,
+                        "lose": 2,
+                        "goalsFor": 12,
+                        "goalsAgainst": 10
+                    },
+                    "goalsDiff": 11,
+                    "points": 33,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 5,
+                    "team_id": 124,
+                    "teamName": "Fluminense",
+                    "logo": "https://media.api-sports.io/football/teams/124.png",
+                    "group": "Serie A",
+                    "forme": "LWWDD",
+                    "status": "same",
+                    "description": "CONMEBOL Libertadores Qualifiers",
+                    "all": {
+                        "matchsPlayed": 20,
+                        "win": 9,
+                        "draw": 5,
+                        "lose": 6,
+                        "goalsFor": 29,
+                        "goalsAgainst": 22
+                    },
+                    "home": {
+                        "matchsPlayed": 11,
+                        "win": 6,
+                        "draw": 3,
+                        "lose": 2,
+                        "goalsFor": 19,
+                        "goalsAgainst": 11
+                    },
+                    "away": {
+                        "matchsPlayed": 9,
+                        "win": 3,
+                        "draw": 2,
+                        "lose": 4,
+                        "goalsFor": 10,
+                        "goalsAgainst": 11
+                    },
+                    "goalsDiff": 7,
+                    "points": 32,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 6,
+                    "team_id": 121,
+                    "teamName": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png",
+                    "group": "Serie A",
+                    "forme": "WWWLL",
+                    "status": "up",
+                    "description": "CONMEBOL Libertadores Qualifiers",
+                    "all": {
+                        "matchsPlayed": 19,
+                        "win": 8,
+                        "draw": 7,
+                        "lose": 4,
+                        "goalsFor": 26,
+                        "goalsAgainst": 20
+                    },
+                    "home": {
+                        "matchsPlayed": 9,
+                        "win": 3,
+                        "draw": 4,
+                        "lose": 2,
+                        "goalsFor": 13,
+                        "goalsAgainst": 12
+                    },
+                    "away": {
+                        "matchsPlayed": 10,
+                        "win": 5,
+                        "draw": 3,
+                        "lose": 2,
+                        "goalsFor": 13,
+                        "goalsAgainst": 8
+                    },
+                    "goalsDiff": 6,
+                    "points": 31,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 7,
+                    "team_id": 128,
+                    "teamName": "Santos",
+                    "logo": "https://media.api-sports.io/football/teams/128.png",
+                    "group": "Serie A",
+                    "forme": "DWLWL",
+                    "status": "down",
+                    "description": "CONMEBOL Sudamericana",
+                    "all": {
+                        "matchsPlayed": 20,
+                        "win": 8,
+                        "draw": 7,
+                        "lose": 5,
+                        "goalsFor": 28,
+                        "goalsAgainst": 24
+                    },
+                    "home": {
+                        "matchsPlayed": 10,
+                        "win": 4,
+                        "draw": 4,
+                        "lose": 2,
+                        "goalsFor": 17,
+                        "goalsAgainst": 12
+                    },
+                    "away": {
+                        "matchsPlayed": 10,
+                        "win": 4,
+                        "draw": 3,
+                        "lose": 3,
+                        "goalsFor": 11,
+                        "goalsAgainst": 12
+                    },
+                    "goalsDiff": 4,
+                    "points": 31,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 8,
+                    "team_id": 130,
+                    "teamName": "Gremio",
+                    "logo": "https://media.api-sports.io/football/teams/130.png",
+                    "group": "Serie A",
+                    "forme": "WWWDW",
+                    "status": "same",
+                    "description": "CONMEBOL Sudamericana",
+                    "all": {
+                        "matchsPlayed": 19,
+                        "win": 7,
+                        "draw": 9,
+                        "lose": 3,
+                        "goalsFor": 22,
+                        "goalsAgainst": 17
+                    },
+                    "home": {
+                        "matchsPlayed": 9,
+                        "win": 4,
+                        "draw": 4,
+                        "lose": 1,
+                        "goalsFor": 12,
+                        "goalsAgainst": 8
+                    },
+                    "away": {
+                        "matchsPlayed": 10,
+                        "win": 3,
+                        "draw": 5,
+                        "lose": 2,
+                        "goalsFor": 10,
+                        "goalsAgainst": 9
+                    },
+                    "goalsDiff": 5,
+                    "points": 30,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 9,
+                    "team_id": 118,
+                    "teamName": "Bahia",
+                    "logo": "https://media.api-sports.io/football/teams/118.png",
+                    "group": "Serie A",
+                    "forme": "WWLWD",
+                    "status": "up",
+                    "description": "CONMEBOL Sudamericana",
+                    "all": {
+                        "matchsPlayed": 20,
+                        "win": 7,
+                        "draw": 4,
+                        "lose": 9,
+                        "goalsFor": 26,
+                        "goalsAgainst": 29
+                    },
+                    "home": {
+                        "matchsPlayed": 11,
+                        "win": 6,
+                        "draw": 1,
+                        "lose": 4,
+                        "goalsFor": 17,
+                        "goalsAgainst": 14
+                    },
+                    "away": {
+                        "matchsPlayed": 9,
+                        "win": 1,
+                        "draw": 3,
+                        "lose": 5,
+                        "goalsFor": 9,
+                        "goalsAgainst": 15
+                    },
+                    "goalsDiff": -3,
+                    "points": 25,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 10,
+                    "team_id": 123,
+                    "teamName": "Sport Recife",
+                    "logo": "https://media.api-sports.io/football/teams/123.png",
+                    "group": "Serie A",
+                    "forme": "DWDLL",
+                    "status": "down",
+                    "description": "CONMEBOL Sudamericana",
+                    "all": {
+                        "matchsPlayed": 20,
+                        "win": 7,
+                        "draw": 4,
+                        "lose": 9,
+                        "goalsFor": 19,
+                        "goalsAgainst": 26
+                    },
+                    "home": {
+                        "matchsPlayed": 9,
+                        "win": 5,
+                        "draw": 0,
+                        "lose": 4,
+                        "goalsFor": 12,
+                        "goalsAgainst": 12
+                    },
+                    "away": {
+                        "matchsPlayed": 11,
+                        "win": 2,
+                        "draw": 4,
+                        "lose": 5,
+                        "goalsFor": 7,
+                        "goalsAgainst": 14
+                    },
+                    "goalsDiff": -7,
+                    "points": 25,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 11,
+                    "team_id": 131,
+                    "teamName": "Corinthians",
+                    "logo": "https://media.api-sports.io/football/teams/131.png",
+                    "group": "Serie A",
+                    "forme": "DWWLW",
+                    "status": "same",
+                    "description": "CONMEBOL Sudamericana",
+                    "all": {
+                        "matchsPlayed": 20,
+                        "win": 6,
+                        "draw": 7,
+                        "lose": 7,
+                        "goalsFor": 23,
+                        "goalsAgainst": 27
+                    },
+                    "home": {
+                        "matchsPlayed": 9,
+                        "win": 3,
+                        "draw": 4,
+                        "lose": 2,
+                        "goalsFor": 12,
+                        "goalsAgainst": 14
+                    },
+                    "away": {
+                        "matchsPlayed": 11,
+                        "win": 3,
+                        "draw": 3,
+                        "lose": 5,
+                        "goalsFor": 11,
+                        "goalsAgainst": 13
+                    },
+                    "goalsDiff": -4,
+                    "points": 25,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 12,
+                    "team_id": 154,
+                    "teamName": "Fortaleza EC",
+                    "logo": "https://media.api-sports.io/football/teams/154.png",
+                    "group": "Serie A",
+                    "forme": "LLLWD",
+                    "status": "down",
+                    "description": "CONMEBOL Sudamericana",
+                    "all": {
+                        "matchsPlayed": 19,
+                        "win": 6,
+                        "draw": 6,
+                        "lose": 7,
+                        "goalsFor": 18,
+                        "goalsAgainst": 16
+                    },
+                    "home": {
+                        "matchsPlayed": 9,
+                        "win": 5,
+                        "draw": 2,
+                        "lose": 2,
+                        "goalsFor": 9,
+                        "goalsAgainst": 4
+                    },
+                    "away": {
+                        "matchsPlayed": 10,
+                        "win": 1,
+                        "draw": 4,
+                        "lose": 5,
+                        "goalsFor": 9,
+                        "goalsAgainst": 12
+                    },
+                    "goalsDiff": 2,
+                    "points": 24,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 13,
+                    "team_id": 129,
+                    "teamName": "Ceara",
+                    "logo": "https://media.api-sports.io/football/teams/129.png",
+                    "group": "Serie A",
+                    "forme": "DDWDW",
+                    "status": "down",
+                    "description": null,
+                    "all": {
+                        "matchsPlayed": 19,
+                        "win": 6,
+                        "draw": 6,
+                        "lose": 7,
+                        "goalsFor": 23,
+                        "goalsAgainst": 26
+                    },
+                    "home": {
+                        "matchsPlayed": 10,
+                        "win": 5,
+                        "draw": 3,
+                        "lose": 2,
+                        "goalsFor": 12,
+                        "goalsAgainst": 9
+                    },
+                    "away": {
+                        "matchsPlayed": 9,
+                        "win": 1,
+                        "draw": 3,
+                        "lose": 5,
+                        "goalsFor": 11,
+                        "goalsAgainst": 17
+                    },
+                    "goalsDiff": -3,
+                    "points": 24,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 14,
+                    "team_id": 144,
+                    "teamName": "Atletico Goianiense",
+                    "logo": "https://media.api-sports.io/football/teams/144.png",
+                    "group": "Serie A",
+                    "forme": "DLLDW",
+                    "status": "down",
+                    "description": null,
+                    "all": {
+                        "matchsPlayed": 20,
+                        "win": 5,
+                        "draw": 8,
+                        "lose": 7,
+                        "goalsFor": 18,
+                        "goalsAgainst": 26
+                    },
+                    "home": {
+                        "matchsPlayed": 10,
+                        "win": 2,
+                        "draw": 5,
+                        "lose": 3,
+                        "goalsFor": 13,
+                        "goalsAgainst": 15
+                    },
+                    "away": {
+                        "matchsPlayed": 10,
+                        "win": 3,
+                        "draw": 3,
+                        "lose": 4,
+                        "goalsFor": 5,
+                        "goalsAgainst": 11
+                    },
+                    "goalsDiff": -8,
+                    "points": 23,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 15,
+                    "team_id": 147,
+                    "teamName": "Coritiba",
+                    "logo": "https://media.api-sports.io/football/teams/147.png",
+                    "group": "Serie A",
+                    "forme": "DWLLW",
+                    "status": "up",
+                    "description": null,
+                    "all": {
+                        "matchsPlayed": 20,
+                        "win": 5,
+                        "draw": 5,
+                        "lose": 10,
+                        "goalsFor": 18,
+                        "goalsAgainst": 26
+                    },
+                    "home": {
+                        "matchsPlayed": 9,
+                        "win": 3,
+                        "draw": 2,
+                        "lose": 4,
+                        "goalsFor": 5,
+                        "goalsAgainst": 6
+                    },
+                    "away": {
+                        "matchsPlayed": 11,
+                        "win": 2,
+                        "draw": 3,
+                        "lose": 6,
+                        "goalsFor": 13,
+                        "goalsAgainst": 20
+                    },
+                    "goalsDiff": -8,
+                    "points": 20,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 16,
+                    "team_id": 794,
+                    "teamName": "Bragantino",
+                    "logo": "https://media.api-sports.io/football/teams/794.png",
+                    "group": "Serie A",
+                    "forme": "DLWWD",
+                    "status": "up",
+                    "description": null,
+                    "all": {
+                        "matchsPlayed": 20,
+                        "win": 4,
+                        "draw": 8,
+                        "lose": 8,
+                        "goalsFor": 23,
+                        "goalsAgainst": 27
+                    },
+                    "home": {
+                        "matchsPlayed": 10,
+                        "win": 4,
+                        "draw": 3,
+                        "lose": 3,
+                        "goalsFor": 14,
+                        "goalsAgainst": 11
+                    },
+                    "away": {
+                        "matchsPlayed": 10,
+                        "win": 0,
+                        "draw": 5,
+                        "lose": 5,
+                        "goalsFor": 9,
+                        "goalsAgainst": 16
+                    },
+                    "goalsDiff": -4,
+                    "points": 20,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 17,
+                    "team_id": 120,
+                    "teamName": "Botafogo",
+                    "logo": "https://media.api-sports.io/football/teams/120.png",
+                    "group": "Serie A",
+                    "forme": "LDDLW",
+                    "status": "down",
+                    "description": "Relegation",
+                    "all": {
+                        "matchsPlayed": 19,
+                        "win": 3,
+                        "draw": 11,
+                        "lose": 5,
+                        "goalsFor": 19,
+                        "goalsAgainst": 23
+                    },
+                    "home": {
+                        "matchsPlayed": 10,
+                        "win": 2,
+                        "draw": 5,
+                        "lose": 3,
+                        "goalsFor": 10,
+                        "goalsAgainst": 12
+                    },
+                    "away": {
+                        "matchsPlayed": 9,
+                        "win": 1,
+                        "draw": 6,
+                        "lose": 2,
+                        "goalsFor": 9,
+                        "goalsAgainst": 11
+                    },
+                    "goalsDiff": -4,
+                    "points": 20,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 18,
+                    "team_id": 133,
+                    "teamName": "Vasco DA Gama",
+                    "logo": "https://media.api-sports.io/football/teams/133.png",
+                    "group": "Serie A",
+                    "forme": "LDLLL",
+                    "status": "down",
+                    "description": "Relegation",
+                    "all": {
+                        "matchsPlayed": 18,
+                        "win": 5,
+                        "draw": 4,
+                        "lose": 9,
+                        "goalsFor": 20,
+                        "goalsAgainst": 26
+                    },
+                    "home": {
+                        "matchsPlayed": 9,
+                        "win": 3,
+                        "draw": 2,
+                        "lose": 4,
+                        "goalsFor": 9,
+                        "goalsAgainst": 9
+                    },
+                    "away": {
+                        "matchsPlayed": 9,
+                        "win": 2,
+                        "draw": 2,
+                        "lose": 5,
+                        "goalsFor": 11,
+                        "goalsAgainst": 17
+                    },
+                    "goalsDiff": -6,
+                    "points": 19,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 19,
+                    "team_id": 134,
+                    "teamName": "Atletico Paranaense",
+                    "logo": "https://media.api-sports.io/football/teams/134.png",
+                    "group": "Serie A",
+                    "forme": "WLLDL",
+                    "status": "down",
+                    "description": "Relegation",
+                    "all": {
+                        "matchsPlayed": 19,
+                        "win": 5,
+                        "draw": 4,
+                        "lose": 10,
+                        "goalsFor": 15,
+                        "goalsAgainst": 21
+                    },
+                    "home": {
+                        "matchsPlayed": 11,
+                        "win": 4,
+                        "draw": 3,
+                        "lose": 4,
+                        "goalsFor": 9,
+                        "goalsAgainst": 9
+                    },
+                    "away": {
+                        "matchsPlayed": 8,
+                        "win": 1,
+                        "draw": 1,
+                        "lose": 6,
+                        "goalsFor": 6,
+                        "goalsAgainst": 12
+                    },
+                    "goalsDiff": -6,
+                    "points": 19,
+                    "lastUpdate": "2020-11-11"
+                },
+                {
+                    "rank": 20,
+                    "team_id": 151,
+                    "teamName": "Goias",
+                    "logo": "https://media.api-sports.io/football/teams/151.png",
+                    "group": "Serie A",
+                    "forme": "LDLDD",
+                    "status": "same",
+                    "description": "Relegation",
+                    "all": {
+                        "matchsPlayed": 18,
+                        "win": 2,
+                        "draw": 6,
+                        "lose": 10,
+                        "goalsFor": 21,
+                        "goalsAgainst": 33
+                    },
+                    "home": {
+                        "matchsPlayed": 9,
+                        "win": 2,
+                        "draw": 3,
+                        "lose": 4,
+                        "goalsFor": 14,
+                        "goalsAgainst": 17
+                    },
+                    "away": {
+                        "matchsPlayed": 9,
+                        "win": 0,
+                        "draw": 3,
+                        "lose": 6,
+                        "goalsFor": 7,
+                        "goalsAgainst": 16
+                    },
+                    "goalsDiff": -12,
+                    "points": 12,
+                    "lastUpdate": "2020-11-11"
+                }
+            ]
+        ]
+    }
+}

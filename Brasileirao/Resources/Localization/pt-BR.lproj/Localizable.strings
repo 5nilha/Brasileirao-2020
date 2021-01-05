@@ -1,0 +1,33 @@
+/*
+  Localizable.strings
+  Brasileirao
+
+  Created by Fabio Quintanilha on 11/8/20.
+  Copyright © 2020 Fabio Quintanilha. All rights reserved.
+*/
+
+/* Error Alerts Actions */
+"ok_action" = "OK";
+"error_title" = "Error fetching Campeonato Brasileiro API";
+"error_UIDescription" = "Um erro aconteceu. No momento não conseguimos carregar os dados dos jogos. Tente novamente mais tarde.";
+"nil_data_error" = "Data está sem nada ou não existe.";
+"file_not_found_error" = "Arquivo não encontrado";
+"decode_error" = "Erro tentando decode o json";
+"unauthorized_token_error" = "Erro ao tentar fetch a data usando um token não autorizado.";
+"invalid_url" = "URL Invalida.";
+"nil_url" = "URL inexistente.";
+"wrongPath" = "Caminho do arquivo errado.";
+"badRequest" = "Error of Bad Request";
+"serverError" = "Error with Internal Server Error";
+"serverUnavailable" = "Server is Unavailable";
+
+/* MatchStatsViewModel */
+"shot_to_goal" = "Chutes Para o Gol";
+"total_shots" = "Total de Chutes";
+"fouls" = "Faltas";
+"offsides" = "Impedimentos";
+"corners" = "Escanteios";
+"ball_possession" = "Posse de Bola";
+"yellow_cards" = "Cartões Amarelo";
+"red_cards" = "Cartões Vermelho";
+"total_passes" = "Passes";
